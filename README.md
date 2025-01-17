@@ -45,7 +45,7 @@ A project that make you be able to play Chrome Dino game only with your hand
 
     return fingerList
 
-    [Will raise Value Error if 1mList is empty]
+    [Will raise Value Error if lmList is empty]
 
 # Usage
 
