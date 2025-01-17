@@ -1,6 +1,9 @@
 # Hand Tracking Module
+
 Hand Tracking Module[HTM] is a python module using cv2 and mediapipe to track hand and finger
+
 ![LOGO](https://imgr2.lookpic.cn/2025/01/17/2025-01-17_19-51-5826b0cd28ffc26ac0.png)
+
 # Feature
 - Precisely detect hand and fingers
 - Spread fingers into a list with status of True and False
